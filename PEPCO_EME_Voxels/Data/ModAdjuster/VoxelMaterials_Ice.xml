@@ -1,0 +1,99 @@
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<VoxelMaterials>
+		<!--Triton Ice-->
+		<VoxelMaterial xsi:type="MyObjectBuilder_Dx11VoxelMaterialDefinition">
+			<Id>
+				<TypeId>VoxelMaterialDefinition</TypeId>
+				<SubtypeId>TritonIce</SubtypeId>
+			</Id>
+			<MinedOre>GlacierIce</MinedOre>
+		</VoxelMaterial>
+		<!--Asteroid ice-->
+		<VoxelMaterial xsi:type="MyObjectBuilder_Dx11VoxelMaterialDefinition">
+			<Id>
+				<TypeId>VoxelMaterialDefinition</TypeId>
+				<SubtypeId>Ice_01</SubtypeId>
+			</Id>
+			<MinedOre>GlacierIce</MinedOre>
+		</VoxelMaterial>
+		<VoxelMaterial xsi:type="MyObjectBuilder_Dx11VoxelMaterialDefinition">
+			<Id>
+				<TypeId>VoxelMaterialDefinition</TypeId>
+				<SubtypeId>Ice_02</SubtypeId>
+			</Id>
+			<MinedOre>GlacierIce</MinedOre>
+		</VoxelMaterial>
+		<VoxelMaterial xsi:type="MyObjectBuilder_Dx11VoxelMaterialDefinition">
+			<Id>
+				<TypeId>VoxelMaterialDefinition</TypeId>
+				<SubtypeId>Ice_03</SubtypeId>
+			</Id>
+			<MinedOre>GlacierIce</MinedOre>
+		</VoxelMaterial>
+		<!--Snow and planetary ice-->
+		<VoxelMaterial xsi:type="MyObjectBuilder_Dx11VoxelMaterialDefinition">
+			<Id>
+				<TypeId>VoxelMaterialDefinition</TypeId>
+				<SubtypeId>Snow</SubtypeId>
+			</Id>
+			<MinedOre>GlacierIce</MinedOre>
+		</VoxelMaterial>
+		<VoxelMaterial xsi:type="MyObjectBuilder_Dx11VoxelMaterialDefinition">
+			<Id>
+				<TypeId>VoxelMaterialDefinition</TypeId>
+				<SubtypeId>Ice</SubtypeId>
+			</Id>
+			<MinedOre>GlacierIce</MinedOre>
+		</VoxelMaterial>
+		<VoxelMaterial xsi:type="MyObjectBuilder_Dx11VoxelMaterialDefinition">
+			<Id>
+				<TypeId>VoxelMaterialDefinition</TypeId>
+				<SubtypeId>IceEuropa2</SubtypeId>
+			</Id>
+			<MinedOre>GlacierIce</MinedOre>
+		</VoxelMaterial>
+		<VoxelMaterial xsi:type="MyObjectBuilder_Dx11VoxelMaterialDefinition">
+			<Id>
+				<TypeId>VoxelMaterialDefinition</TypeId>
+				<SubtypeId>AlienIce_03</SubtypeId>
+			</Id>
+			<MinedOre>GlacierIce</MinedOre>
+		</VoxelMaterial>
+		<VoxelMaterial xsi:type="MyObjectBuilder_Dx11VoxelMaterialDefinition">
+			<Id>
+				<TypeId>VoxelMaterialDefinition</TypeId>
+				<SubtypeId>AlienIce</SubtypeId>
+			</Id>
+			<MinedOre>GlacierIce</MinedOre>
+		</VoxelMaterial>
+		<VoxelMaterial xsi:type="MyObjectBuilder_Dx11VoxelMaterialDefinition">
+			<Id>
+				<TypeId>VoxelMaterialDefinition</TypeId>
+				<SubtypeId>AlienSnow</SubtypeId>
+			</Id>
+			<MinedOre>GlacierIce</MinedOre>
+		</VoxelMaterial>
+		<!--Ares at war voxels-->
+		<VoxelMaterial xsi:type="MyObjectBuilder_Dx11VoxelMaterialDefinition">
+			<Id>
+				<TypeId>VoxelMaterialDefinition</TypeId>
+				<SubtypeId>DeepSnow</SubtypeId>
+			</Id>
+			<MinedOre>GlacierIce</MinedOre>
+		</VoxelMaterial>
+		<VoxelMaterial xsi:type="MyObjectBuilder_Dx11VoxelMaterialDefinition">
+			<Id>
+				<TypeId>VoxelMaterialDefinition</TypeId>
+				<SubtypeId>CraitIce</SubtypeId>
+			</Id>
+			<MinedOre>GlacierIce</MinedOre>
+		</VoxelMaterial>
+		<VoxelMaterial xsi:type="MyObjectBuilder_Dx11VoxelMaterialDefinition">
+			<Id>
+				<TypeId>VoxelMaterialDefinition</TypeId>
+				<SubtypeId>AlienSnowSpider</SubtypeId>
+			</Id>
+			<MinedOre>GlacierIce</MinedOre>
+		</VoxelMaterial>
+	</VoxelMaterials>
+</Definitions>

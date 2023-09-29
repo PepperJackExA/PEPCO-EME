@@ -1,0 +1,78 @@
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<VoxelMaterials>
+		<!-- Sand_02 -->
+		<VoxelMaterial xsi:type="MyObjectBuilder_Dx11VoxelMaterialDefinition">
+			<Id>
+				<TypeId>VoxelMaterialDefinition</TypeId>
+				<SubtypeId>DOC-BeachSand</SubtypeId>
+			</Id>
+			<MinedOre>Quartz</MinedOre>
+			<MinedOreRatio>5</MinedOreRatio>
+			<CanBeHarvested>true</CanBeHarvested>
+		</VoxelMaterial>
+		<VoxelMaterial xsi:type="MyObjectBuilder_Dx11VoxelMaterialDefinition">
+			<Id>
+				<TypeId>VoxelMaterialDefinition</TypeId>
+				<SubtypeId>Sand_02</SubtypeId>
+			</Id>
+			<MinedOre>Quartz</MinedOre>
+			<MinedOreRatio>5</MinedOreRatio>
+			<CanBeHarvested>true</CanBeHarvested>
+		</VoxelMaterial>
+		<VoxelMaterial xsi:type="MyObjectBuilder_Dx11VoxelMaterialDefinition">
+			<Id>
+				<TypeId>VoxelMaterialDefinition</TypeId>
+				<SubtypeId>AlienSand</SubtypeId>
+			</Id>
+			<MinedOre>Quartz</MinedOre>
+			<MinedOreRatio>5</MinedOreRatio>
+			<CanBeHarvested>true</CanBeHarvested>
+		</VoxelMaterial>
+		<VoxelMaterial xsi:type="MyObjectBuilder_Dx11VoxelMaterialDefinition">
+			<Id>
+				<TypeId>VoxelMaterialDefinition</TypeId>
+				<SubtypeId>Blacksand</SubtypeId>
+			</Id>
+			<MinedOre>Quartz</MinedOre>
+			<MinedOreRatio>5</MinedOreRatio>
+			<CanBeHarvested>true</CanBeHarvested>
+		</VoxelMaterial>
+				<VoxelMaterial xsi:type="MyObjectBuilder_Dx11VoxelMaterialDefinition">
+			<Id>
+				<TypeId>VoxelMaterialDefinition</TypeId>
+				<SubtypeId>Redsand</SubtypeId>
+			</Id>
+			<MinedOre>Quartz</MinedOre>
+			<MinedOreRatio>5</MinedOreRatio>
+			<CanBeHarvested>true</CanBeHarvested>
+		</VoxelMaterial>
+		<!--Not really sandish-->
+<!--		<VoxelMaterial xsi:type="MyObjectBuilder_Dx11VoxelMaterialDefinition">
+			<Id>
+				<TypeId>VoxelMaterialDefinition</TypeId>
+				<SubtypeId>LV</SubtypeId>
+			</Id>
+			<MinedOre>Quartz</MinedOre>
+			<MinedOreRatio>5</MinedOreRatio>
+			<CanBeHarvested>true</CanBeHarvested>
+		</VoxelMaterial>-->
+		<VoxelMaterial xsi:type="MyObjectBuilder_Dx11VoxelMaterialDefinition">
+			<Id>
+				<TypeId>VoxelMaterialDefinition</TypeId>
+				<SubtypeId>PertamSand</SubtypeId>
+			</Id>
+			<MinedOre>Quartz</MinedOre>
+			<MinedOreRatio>5</MinedOreRatio>
+			<CanBeHarvested>true</CanBeHarvested>
+		</VoxelMaterial>
+		<VoxelMaterial xsi:type="MyObjectBuilder_Dx11VoxelMaterialDefinition">
+			<Id>
+				<TypeId>VoxelMaterialDefinition</TypeId>
+				<SubtypeId>AlienSandSea</SubtypeId>
+			</Id>
+			<MinedOre>Quartz</MinedOre>
+			<MinedOreRatio>5</MinedOreRatio>
+			<CanBeHarvested>true</CanBeHarvested>
+		</VoxelMaterial>
+	</VoxelMaterials>
+</Definitions>
